@@ -1,0 +1,187 @@
+{
+  "products":[
+     {
+        "id":30,
+        "title":"Key Holder",
+        "description":"Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
+        "price":30,
+        "discountPercentage":2.92,
+        "rating":4.92,
+        "stock":54,
+        "brand":"Golden",
+        "category":"home-decoration",
+        "thumbnail":"https://imgs.search.brave.com/3va36i7QMjmcCzgZ2ObjLHye117UD0u0_TxbwTARirY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbHVz/cG5nLmNvbS9pbWct/cG5nL2tleS1oZC1w/bmcta2V5LXRyYW5z/cGFyZW50LXBuZy0x/MTM4LnBuZw",
+        "images":[
+           "https://i.dummyjson.com/data/products/30/1.jpg",
+           "https://i.dummyjson.com/data/products/30/2.jpg",
+           "https://i.dummyjson.com/data/products/30/3.jpg",
+           "https://i.dummyjson.com/data/products/30/thumbnail.jpg"
+        ]
+     },
+     {
+        "id":6,
+        "title":"MacBook Pro",
+        "description":"MacBook Pro 2021 with mini-LED display may launch between September, November",
+        "price":1749,
+        "discountPercentage":11.02,
+        "rating":4.57,
+        "stock":83,
+        "brand":"Apple",
+        "category":"laptops",
+        "thumbnail":"https://imgs.search.brave.com/vV8CQosWgNrpjIkt00DsOWdR6dP6SNhf9j462EiXaPE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvODAx/ODA1NzgwL3Bob3Rv/L2EtMjAxNi1hcHBs/ZS0xMy1pbmNoLW1h/Y2Jvb2stcHJvLWxh/cHRvcC1jb21wdXRl/ci10YWtlbi1vbi1u/b3ZlbWJlci0yMS0y/MDE2LmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz16UFdjUGVE/SzF2TUJ6dnBpeXlY/NXNobGNhVEsyamFw/OGhqYXQwazhfWWVz/PQ",
+        "images":[
+           "https://i.dummyjson.com/data/products/6/1.png",
+           "https://i.dummyjson.com/data/products/6/2.jpg",
+           "https://i.dummyjson.com/data/products/6/3.png",
+           "https://i.dummyjson.com/data/products/6/4.jpg"
+        ]
+     },
+     {
+        "id":2,
+        "title":"iPhone X",
+        "description":"SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+        "price":899,
+        "discountPercentage":17.94,
+        "rating":4.44,
+        "stock":34,
+        "brand":"Apple",
+        "category":"smartphones",
+        "thumbnail":"https://imgs.search.brave.com/7XS_LOdLg_tVqRvZkTF920G4pLiX3PS8LCCqsJ-9lpk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTE4/MTI4ODcyNi9waG90/by9hcHBsZS1pcGhv/bmUteC1zaWx2ZXIu/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PWxzdUt2YTB5ZXE1/Ry1iWWJ4TUUtMXNT/Unc5LWY1WDlpZVNI/SFh5RGJYUFU9",
+        "images":[
+           "https://i.dummyjson.com/data/products/2/1.jpg",
+           "https://i.dummyjson.com/data/products/2/2.jpg",
+           "https://i.dummyjson.com/data/products/2/3.jpg",
+           "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+        ]
+     },
+     {
+        "id":3,
+        "title":"Samsung Universe 9",
+        "description":"Samsung's new variant which goes beyond Galaxy to the Universe",
+        "price":1249,
+        "discountPercentage":15.46,
+        "rating":4.09,
+        "stock":36,
+        "brand":"Samsung",
+        "category":"smartphones",
+        "thumbnail":"https://imgs.search.brave.com/U8rhcEQ8vX_jKK2d7v3QTLbP4lsJrCRO3qy87ZsfMGo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzF0R3pJdHUyTEwu/anBn",
+        "images":[
+           "https://i.dummyjson.com/data/products/3/1.jpg"
+        ]
+     },
+     {
+        "id":4,
+        "title":"OPPOF19",
+        "description":"OPPO F19 is officially announced on April 2021.",
+        "price":280,
+        "discountPercentage":17.91,
+        "rating":4.3,
+        "stock":123,
+        "brand":"OPPO",
+        "category":"smartphones",
+        "thumbnail":"https://imgs.search.brave.com/vfkRXqk6477g5EDjWc5Gf0Uf4EjAsPrfDWLZ3ypjJ84/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmJs/b2dzLmVzLzUxZWE0/Zi9vcHBvLWYxOS1w/cm8tMy80NTBfMTAw/MC53ZWJw",
+        "images":[
+           "https://i.dummyjson.com/data/products/4/1.jpg",
+           "https://i.dummyjson.com/data/products/4/2.jpg",
+           "https://i.dummyjson.com/data/products/4/3.jpg",
+           "https://i.dummyjson.com/data/products/4/4.jpg",
+           "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+        ]
+     },
+     {
+        "id":5,
+        "title":"Huawei P30",
+        "description":"Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+        "price":499,
+        "discountPercentage":10.58,
+        "rating":4.09,
+        "stock":32,
+        "brand":"Huawei",
+        "category":"smartphones",
+        "thumbnail":"https://imgs.search.brave.com/RK-iLb_jT8t_z90RB8LMQyHkG9gDiOnf9BgdfI1726Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y25ldC5jb20vYS9p/bWcvcmVzaXplLzdi/ZGJhMjFhOTNjYzZm/MDRmNzAyNzMxOTM2/NTNlMzRiNjNkZWM2/YmQvaHViLzIwMTkv/MDQvMjQvYzlkZjgx/MzUtMTdiNi00M2Y3/LTk0ZjktMDBjZjc0/YmI4NjI2L2h1YXdl/aS1wMzAtY25ldC0z/LmpwZz9hdXRvPXdl/YnAmd2lkdGg9MTIw/MA",
+        "images":[
+           "https://i.dummyjson.com/data/products/5/1.jpg",
+           "https://i.dummyjson.com/data/products/5/2.jpg",
+           "https://i.dummyjson.com/data/products/5/3.jpg"
+        ]
+     },
+     {
+        "id":7,
+        "title":"Samsung Galaxy Book",
+        "description":"Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+        "price":1499,
+        "discountPercentage":4.15,
+        "rating":4.25,
+        "stock":50,
+        "brand":"Samsung",
+        "category":"laptops",
+        "thumbnail":"https://imgs.search.brave.com/lyCUU-5nu62o4I0UJfEJmL6J3hmUdA8LKUOdDkpfzlw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vaW1ncy5o/aXBlcnRleHR1YWwu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIzLzAyL1NhbXN1/bmctR2FsYXh5LUJv/b2stMy1Qcm8tMzYw/LTMtMTUwMHg5Mzgu/anBnP3Jlc2l6ZT03/ODAsNDg4JnF1YWxp/dHk9NTUmc3RyaXA9/YWxsJnNzbD0x",
+        "images":[
+           "https://i.dummyjson.com/data/products/7/1.jpg",
+           "https://i.dummyjson.com/data/products/7/2.jpg",
+           "https://i.dummyjson.com/data/products/7/3.jpg",
+           "https://i.dummyjson.com/data/products/7/thumbnail.jpg"
+        ]
+     },
+     {
+        "id":1,
+        "title":"iPhone 9",
+        "description":"An apple mobile which is nothing like apple",
+        "price":549,
+        "discountPercentage":12.96,
+        "rating":4.69,
+        "stock":94,
+        "brand":"Apple",
+        "category":"smartphones",
+        "thumbnail":"https://imgs.search.brave.com/sl4Qx6GuPqIctCBmdPBj21fa6uKRE1vfF1b8ZBb6T1s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmJs/b2dzLmVzLzU1MTJm/NS8yNTYwXzMwMDAt/Mi80NTBfMTAwMC53/ZWJw",
+        "images":[
+           "https://i.dummyjson.com/data/products/1/1.jpg",
+           "https://i.dummyjson.com/data/products/1/2.jpg",
+           "https://i.dummyjson.com/data/products/1/3.jpg",
+           "https://i.dummyjson.com/data/products/1/4.jpg",
+           "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+        ]
+     },
+     {
+        "id":8,
+        "title":"Microsoft Surface Laptop 4",
+        "description":"Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+        "price":1499,
+        "discountPercentage":10.23,
+        "rating":4.43,
+        "stock":68,
+        "brand":"Microsoft Surface",
+        "category":"laptops",
+        "thumbnail":"https://imgs.search.brave.com/Cfa6jz5-ig6YBjbA5RI6Q6J_3NBD2ytf8o0Hg_u3zSg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMxLnBvY2tldGxp/bnRpbWFnZXMuY29t/L3dvcmRwcmVzcy93/cC1jb250ZW50L3Vw/bG9hZHMvMTYyOTY0/LWxhcHRvcHMtbmV3/cy12cy1taWNyb3Nv/ZnQtc3VyZmFjZS1s/YXB0b3AtNS12cy1z/dXJmYWNlLWxhcHRv/cC00LXdoYXQtcy1j/aGFuZ2VkLWltYWdl/MS1jc2EwdXljZHhm/LmpwZw",
+        "images":[
+           "https://i.dummyjson.com/data/products/8/1.jpg",
+           "https://i.dummyjson.com/data/products/8/2.jpg",
+           "https://i.dummyjson.com/data/products/8/3.jpg",
+           "https://i.dummyjson.com/data/products/8/4.jpg",
+           "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+        ]
+     },
+     {
+        "id":9,
+        "title":"Infinix INBOOK",
+        "description":"Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+        "price":1099,
+        "discountPercentage":11.83,
+        "rating":4.54,
+        "stock":96,
+        "brand":"Infinix",
+        "category":"laptops",
+        "thumbnail":"https://imgs.search.brave.com/bDoPDLhmbsxLcNS3ji3Rz8orIJ5QzXYoe_6K2R8kmUY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFqRFNRN1RPc0wu/anBn",
+        "images":[
+           "https://i.dummyjson.com/data/products/9/1.jpg",
+           "https://i.dummyjson.com/data/products/9/2.png",
+           "https://i.dummyjson.com/data/products/9/3.png",
+           "https://i.dummyjson.com/data/products/9/4.jpg",
+           "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
+        ]
+     }
+  ],
+  "total":100,
+  "skip":0,
+  "limit":30
+}
